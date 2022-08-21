@@ -29,12 +29,12 @@
 - Let's say we have a string with N integer prices separated by a comma, where each price P (i) represents the value of a car on day i. If we are only allowed to do one buy trade and one sell trade, then design an algorithm that finds the highest possible profit given the sequence of prices over time.
 **_Note: You should be aware that you cannot sell a car before you buy it._** 
 
-#####Example # 1:
+##### Example # 1:
 Input: “7,1,5,3,6,4”
 Output: 5
 Explanation: We buy on day 2 at $1 and sell on day 5 at $6 with a profit of $5.
 
-#####Example # 2:
+##### Example # 2:
 Input: “7,6,4,3,1"
 Output: 0
 Explanation:
